@@ -27,7 +27,7 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ### Mobil
 
-- [iOS](https://www.apple.com/tr/ios/ios-18/)**: Güvenli **görünüyor**, ancak kısıtlayıcı. Apple ID gerektirmesi ve veri toplama politikaları dezavantaj. Apple'ın ekosistemine hapsolursunuz. Diyelim ki ülkenizde VPN'ler yasaklandı, ne yapacaksınız iPhone'lar ile :) 
+- [iOS](https://www.apple.com/tr/ios/ios-18/): Güvenli **görünüyor**, ancak kısıtlayıcı. Apple ID gerektirmesi ve veri toplama politikaları dezavantaj. Apple'ın ekosistemine hapsolursunuz. Diyelim ki ülkenizde VPN'ler yasaklandı, ne yapacaksınız iPhone'lar ile :) 
 - [Android](https://www.android.com/): Daha özgür ama güvenlik riskleri mevcut. [LineageOS](https://lineageos.org/), [GrapheneOS](https://grapheneos.org/) gibi özel işletim sistemleri (Custom ROM'lar) daha fazla mahremiyet sunar.
 
 **Neden Standart Android Kullanılmamalı?**
@@ -69,7 +69,7 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 - **Mozilla Firefox Forkları ([Librewolf](https://librewolf.net/)  [Floorp](https://floorp.app/en)):** Açık kaynak, mahremiyet odaklı. Default Firefox artık önermiyoruz çünkü her güncellemesiyle mahremiyete zarar veriyor.
 - **[Brave](https://brave.com/):** Yerleşik reklam engelleyici ve kripto cüzdan entegrasyonu, Chromium Tabanlı **Ancak Brave'in kendi reklam sistemi ve bazı veri toplama uygulamaları tartışmalıdır.**
-- [Tor Browser](https://www.torproject.org/download/)**: Maksimum anonimlik için. **Ancak Tor, normal internet kullanımından daha yavaştır ve bazı sitelerle uyumlu olmayabilir.**
+- [Tor Browser](https://www.torproject.org/download/): Maksimum anonimlik için. **Ancak Tor, normal internet kullanımından daha yavaştır ve bazı sitelerle uyumlu olmayabilir.**
 
 **Neden Chrome, Edge veya Opera Kullanılmamalı?**
 
