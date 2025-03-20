@@ -1,6 +1,6 @@
 # Turkish Privacy Guide (Türkçe Mahremiyet Rehberi)
 
-Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetinizi ve veri güvenliğinizi korumak için pratik bilgiler ve öneriler sunar.
+Bu rehber, mahremiyetin "az" olduğu 2025 Türkiyesinde mahremiyetinizi ve veri güvenliğinizi korumak için pratik bilgiler ve öneriler sunar.
 
 ## İçindekiler
 
@@ -16,18 +16,17 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 10. [Yapay Zeka Sistemleri](#10-yapay-zeka-sistemleri)
 11. [Faydalı Kaynaklar](#11-faydalı-kaynaklar)
 12. [Ek Notlar](#12-ek-notlar)
-
-
+13. [Sıkça Sorulan Sorular ve Yanılgılar](#13-sıkça-sorulan-sorular-ve-yanılgılar)
 
 ---
 
 ## 1. İşletim Sistemleri
 
- Kullandığınız işletim sistemi, dijital mahremiyetinizin temelini oluşturur. Kapalı kaynak kodlu işletim sistemleri, verilerinizin nasıl toplandığı ve kullanıldığı konusunda şeffaf değildir. Açık kaynak kodlu sistemler ise daha fazla kontrol ve güvenlik sunar.
+Kullandığınız işletim sistemi, dijital mahremiyetinizin temelini oluşturur. Kapalı kaynak kodlu işletim sistemleri, verilerinizin nasıl toplandığı ve kullanıldığı konusunda şeffaf değildir. Açık kaynak kodlu sistemler ise daha fazla kontrol ve güvenlik sunar.
 
 ### Mobil
 
-- [iOS](https://www.apple.com/tr/ios/ios-18/): Güvenli **görünüyor**, ancak kısıtlayıcı. Apple ID gerektirmesi ve veri toplama politikaları dezavantaj. Apple'ın ekosistemine hapsolursunuz. Diyelim ki ülkenizde VPN'ler yasaklandı, ne yapacaksınız iPhone'lar ile :) 
+- [iOS](https://www.apple.com/tr/ios/ios-18/): Güvenli **görünüyor**, ancak kısıtlayıcı. Apple ID gerektirmesi ve veri toplama politikaları dezavantaj. Apple'ın ekosistemine hapsolursunuz. Diyelim ki ülkenizde VPN'ler yasaklandı, ne yapacaksınız iPhone'lar ile :)
 - [Android](https://www.android.com/): Daha özgür ama güvenlik riskleri mevcut. [LineageOS](https://lineageos.org/), [GrapheneOS](https://grapheneos.org/) gibi özel işletim sistemleri (Custom ROM'lar) daha fazla mahremiyet sunar.
 
 **Neden Standart Android Kullanılmamalı?**
@@ -43,7 +42,7 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 - **Kullanıcı kontrolü sınırlı.**
 - **Tamir hakkı yok (Apple cihazlarını tamir ettirmek zor ve pahalı).**
 
-**Android'i deGoogle ederseniz iyi olabilir, [Örnek Rehber: De-Google Your Life - Part 2_LTT YouTube!](https://odysee.com/@Timbo303Reuploads:d/De-Google-Part-2:8)**
+**Android'i deGoogle ederseniz iyi olabilir, [Örnek Rehber: De-Google Your Life - Part 2\_LTT YouTube!](https://odysee.com/@Timbo303Reuploads:d/De-Google-Part-2:8)**
 
 ### Masaüstü
 
@@ -65,15 +64,15 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 2. Web Tarayıcıları
 
- Web tarayıcınız, internette gezinirken bıraktığınız izleri kontrol etmenizi sağlar. Gizlilik odaklı tarayıcılar, izlemeyi engeller, parmak izinizi gizler ve verilerinizi korur.
+Web tarayıcınız, internette gezinirken bıraktığınız izleri kontrol etmenizi sağlar. Gizlilik odaklı tarayıcılar, izlemeyi engeller, parmak izinizi gizler ve verilerinizi korur.
 
-- **Mozilla Firefox Forkları ([Librewolf](https://librewolf.net/)  [Floorp](https://floorp.app/en)):** Açık kaynak, mahremiyet odaklı. Default Firefox artık önermiyoruz çünkü her güncellemesiyle mahremiyete zarar veriyor.
+- **Mozilla Firefox Forkları ([Librewolf](https://librewolf.net/) [Floorp](https://floorp.app/en)):** Açık kaynak, mahremiyet odaklı. Default Firefox artık önermiyoruz çünkü her güncellemesiyle mahremiyete zarar veriyor.
 - **[Brave](https://brave.com/):** Yerleşik reklam engelleyici ve kripto cüzdan entegrasyonu, Chromium Tabanlı **Ancak Brave'in kendi reklam sistemi ve bazı veri toplama uygulamaları tartışmalıdır.**
 - [Tor Browser](https://www.torproject.org/download/): Maksimum anonimlik için. **Ancak Tor, normal internet kullanımından daha yavaştır ve bazı sitelerle uyumlu olmayabilir.**
 
 **Neden Chrome, Edge veya Opera Kullanılmamalı?**
 
-- Google (Chrome) Microsoft (Edge)  ve Opera yoğun veri toplar
+- Google (Chrome) Microsoft (Edge) ve Opera yoğun veri toplar
 - Opera, Çinli birileri tarafından satın alındı, gizlilik politikaları şüpheli **SPYWARE ALERT**
 - Bu tarayıcılar, kullanıcı davranışlarını izler ve profilleme yapar
 - Chromium tekel olmamalı
@@ -87,9 +86,9 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 3. VPN Hizmetleri
 
- VPN (Virtual Private Network), internet trafiğinizi şifreleyerek ve farklı bir sunucu üzerinden yönlendirerek çevrimiçi aktivitelerinizi gizlemenizi sağlar. Bu, İSS'nizin ve diğerlerinin sizi izlemesini zorlaştırır.
+VPN (Virtual Private Network), internet trafiğinizi şifreleyerek ve farklı bir sunucu üzerinden yönlendirerek çevrimiçi aktivitelerinizi gizlemenizi sağlar. Bu, İSS'nizin ve diğerlerinin sizi izlemesini zorlaştırır.
 
-- [Proton VPN](https://protonvpn.com/): Ücretsiz plan mevcut, güvenilir. 
+- [Proton VPN](https://protonvpn.com/): Ücretsiz plan mevcut, güvenilir.
 - [Mullvad](https://mullvad.net/): Anonim kayıt, Bitcoin ve nakit ödeme kabul eder.
 - [IVPN](https://www.ivpn.net/): Gizlilik politikası fena değil, bağımsız denetimden geçmiş.
 - **SelfHosting**: Sanal sunucunuzu nereden alacağınıza göre değişken güvenliğe sahip, en azından arka planda hangi kodun nasıl çalıştığını bilirsiniz.
@@ -112,10 +111,10 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 4. DNS Hizmetleri
 
- DNS (Domain Name System), internet site isimlerini IP adreslerine çeviren bir sistemdir. ISP'niz varsayılan olarak DNS hizmetini sağlar, ancak bu, internet trafiğinizin izlenmesi anlamına gelir. Alternatif DNS sağlayıcıları daha fazla gizlilik ve güvenlik sunar.
+DNS (Domain Name System), internet site isimlerini IP adreslerine çeviren bir sistemdir. ISP'niz varsayılan olarak DNS hizmetini sağlar, ancak bu, internet trafiğinizin izlenmesi anlamına gelir. Alternatif DNS sağlayıcıları daha fazla gizlilik ve güvenlik sunar.
 
-- [Quad9](https://www.quad9.net/): Güvenlik odaklı, ücretsiz. 
-- [NextDNS](https://nextdns.io/): Özelleştirilebilir filtreler, analitik özellikleri, ücretli(ücretsizde kota var) 
+- [Quad9](https://www.quad9.net/): Güvenlik odaklı, ücretsiz.
+- [NextDNS](https://nextdns.io/): Özelleştirilebilir filtreler, analitik özellikleri, ücretli(ücretsizde kota var)
 - [Mullvad DNS](https://mullvad.net/tr/help/dns-over-https-and-dns-over-tls): VPN hizmetlerinden bağımsız kullanılabilir, ücretsiz, reklam tracker hatta malware engelleyen filtrelere sahip domainleri var.
 
 **Neden ISP DNS'i Kullanılmamalı?**
@@ -128,10 +127,10 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 5. E-Posta Hizmetleri
 
- E-posta, doğası gereği güvenli bir iletişim yöntemi değildir, ancak uçtan uca şifreleme sunan sağlayıcılar kullanarak gizliliğinizi artırabilirsiniz.
+E-posta, doğası gereği güvenli bir iletişim yöntemi değildir, ancak uçtan uca şifreleme sunan sağlayıcılar kullanarak gizliliğinizi artırabilirsiniz.
 
-- [Proton Mail](https://protonmail.com/): Uçtan uca şifreleme, İsviçre merkezli. 
-- [Tutanota](https://tutanota.com/): Almanya merkezli, açık kaynak. 
+- [Proton Mail](https://protonmail.com/): Uçtan uca şifreleme, İsviçre merkezli.
+- [Tutanota](https://tutanota.com/): Almanya merkezli, açık kaynak.
 
 **Neden Gmail veya Outlook Kullanılmamalı?**
 
@@ -143,11 +142,11 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 6. Şifre Yöneticileri
 
- Şifre yöneticileri, karmaşık ve benzersiz şifreler oluşturarak ve bunları sizin için saklayarak çevrimiçi hesaplarınızı korumanızı kolaylaştırır.
+Şifre yöneticileri, karmaşık ve benzersiz şifreler oluşturarak ve bunları sizin için saklayarak çevrimiçi hesaplarınızı korumanızı kolaylaştırır.
 
-- [Bitwarden](https://bitwarden.com/): Açık kaynak, ücretsiz plan mevcut. 
-- [KeePassXC](https://keepassxc.org/): Tamamen çevrimdışı, maksimum güvenlik. 
-- [Proton Pass](https://proton.me/pass): Açık kaynak, ücretsiz plan mevcut. Yeni, güzel ancak Türkiye Proton şirketini sevmediği için arada engelleniyor. 
+- [Bitwarden](https://bitwarden.com/): Açık kaynak, ücretsiz plan mevcut.
+- [KeePassXC](https://keepassxc.org/): Tamamen çevrimdışı, maksimum güvenlik.
+- [Proton Pass](https://proton.me/pass): Açık kaynak, ücretsiz plan mevcut. Yeni, güzel ancak Türkiye Proton şirketini sevmediği için arada engelleniyor.
 
 **Neden Tarayıcı Tabanlı Şifre Yöneticileri Kullanılmamalı?**
 
@@ -159,11 +158,11 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 7. İki Faktörlü Doğrulama (2FA)
 
- İki faktörlü doğrulama (2FA), hesaplarınıza ek bir güvenlik katmanı ekler. Şifrenizin çalınması durumunda bile, hesabınıza erişmek için ikinci bir faktöre (örneğin, telefonunuza gönderilen bir kod) ihtiyaç duyulur.
+İki faktörlü doğrulama (2FA), hesaplarınıza ek bir güvenlik katmanı ekler. Şifrenizin çalınması durumunda bile, hesabınıza erişmek için ikinci bir faktöre (örneğin, telefonunuza gönderilen bir kod) ihtiyaç duyulur.
 
-- [Aegis Authenticator](https://getaegis.app/): Android için açık kaynak. 
-- [Ente Auth](https://ente.io/auth/): Platformlar arası, açık kaynak. 
-- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Açık kaynak, Güzel görünümlü :p 
+- [Aegis Authenticator](https://getaegis.app/): Android için açık kaynak.
+- [Ente Auth](https://ente.io/auth/): Platformlar arası, açık kaynak.
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Açık kaynak, Güzel görünümlü :p
 
 **Neden SMS Tabanlı 2FA Kullanılmamalı?**
 
@@ -176,17 +175,17 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 8. Sosyal Medya ve Mesajlaşma
 
- Sosyal medya platformları ve mesajlaşma uygulamaları, kullanıcı verilerini yoğun şekilde toplar ve paylaşır. Gizlilik odaklı alternatifler, verilerinizi korumanıza ve iletişiminizi güvence altına almanıza yardımcı olur.
+Sosyal medya platformları ve mesajlaşma uygulamaları, kullanıcı verilerini yoğun şekilde toplar ve paylaşır. Gizlilik odaklı alternatifler, verilerinizi korumanıza ve iletişiminizi güvence altına almanıza yardımcı olur.
 
-- [Signal](https://signal.org/): Uçtan uca şifreli mesajlaşma ve arama. 
-- [Session](https://getsession.org/): Merkeziyetsiz, anonim iletişim. 
-- [Element](https://element.io/) veya  [Matrix](https://matrix.org/): Açık kaynak, merkeziyetsiz iletişim protokolü. 
+- [Signal](https://signal.org/): Uçtan uca şifreli mesajlaşma ve arama.
+- [Session](https://getsession.org/): Merkeziyetsiz, anonim iletişim.
+- [Element](https://element.io/) veya [Matrix](https://matrix.org/): Açık kaynak, merkeziyetsiz iletişim protokolü.
 
 **Alternatif Sosyal Medya Platformları:**
 
-- [Mastodon](https://joinmastodon.org/): Twitter alternatifi, merkeziyetsiz sosyal ağ. 
-- [Lemmy](https://lemmy.ml/): Reddit alternatifi, merkeziyetsiz forum platformu. 
-- [Pixelfed](https://pixelfed.org/): Instagram alternatifi, merkeziyetsiz fotoğraf paylaşım platformu. 
+- [Mastodon](https://joinmastodon.org/): Twitter alternatifi, merkeziyetsiz sosyal ağ.
+- [Lemmy](https://lemmy.ml/): Reddit alternatifi, merkeziyetsiz forum platformu.
+- [Pixelfed](https://pixelfed.org/): Instagram alternatifi, merkeziyetsiz fotoğraf paylaşım platformu.
 
 **Neden WhatsApp, Facebook Messenger, Instagram, Telegram Kullanılmamalı?**
 
@@ -205,10 +204,11 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 9. Veri Silme Yöntemleri
 
- Bilgisayarınızdan veya telefonunuzdan bir dosyayı "sildiğinizde", veri aslında tamamen yok olmaz. Özel yazılımlar kullanılarak kurtarılabilir. Hassas verileri kalıcı olarak silmek için özel yöntemler kullanmanız gerekir.
+Bilgisayarınızdan veya telefonunuzdan bir dosyayı "sildiğinizde", veri aslında tamamen yok olmaz. Özel yazılımlar kullanılarak kurtarılabilir. Hassas verileri kalıcı olarak silmek için özel yöntemler kullanmanız gerekir.
 
 - **shred** (Unix/Linux): Komut satırı aracı.
 - **Eraser** (Windows): Grafiksel arayüzlü güvenli silme yazılımı.
+- **BleachBit** (Windows/Linux): Sistem temizleme ve dosya silme.
 
 **Neden Standart "Sil" Fonksiyonu Yeterli Değil?**
 
@@ -220,11 +220,11 @@ Bu rehber, mahremiyetin ayaklar altında olduğu 2024 Türkiyesinde mahremiyetin
 
 ## 10. Yapay Zeka Sistemleri
 
- Yapay zeka sistemleri, özellikle dil modelleri, büyük miktarda veriye ihtiyaç duyar. Bu veriler genellikle kullanıcı etkileşimlerinden toplanır. Gizlilik odaklı AI çözümleri, verilerinizin kontrolünü elinizde tutmanızı sağlar.
+Yapay zeka sistemleri, özellikle dil modelleri, büyük miktarda veriye ihtiyaç duyar. Bu veriler genellikle kullanıcı etkileşimlerinden toplanır. Gizlilik odaklı AI çözümleri, verilerinizin kontrolünü elinizde tutmanızı sağlar.
 
-Lokal Model olarak Llama 3.1 önerilebilir, gpt4o mini ile yarışan görüş kapasiteli Llama 3.2'ye de göz atabilirsiniz
+Lokal Model olarak Gemma 3 veya Deepseek r1 önerilebilir.
 
-- [Ollama](https://ollama.com/) + [OpenWebUI](https://github.com/open-webui/open-webui): Yerel çalışan, mahremiyete saygılı AI çözümü. 
+- [Ollama](https://ollama.com/) + [OpenWebUI](https://github.com/open-webui/open-webui): Yerel çalışan, mahremiyete saygılı AI çözümü.
 
 **Neden ChatGPT veya Google Gemini Kullanılmamalı?**
 
@@ -232,7 +232,7 @@ Lokal Model olarak Llama 3.1 önerilebilir, gpt4o mini ile yarışan görüş ka
 - AI modellerini eğitmek için kullanıcı verilerini kullanabilirler
 - Gizlilik politikaları genellikle kullanıcı aleyhine değişebilir
 
-**Uyarı**: ChatGPT gibi ücretsiz AI hizmetleri verilerinizi kullanır ve saklar.
+**Uyarı**: ChatGPT gibi bazı ücretsiz AI hizmetleri verilerinizi kullanır, saklar ve eğitimlerinde kullanır.
 
 ## 11. Faydalı Kaynaklar
 
@@ -249,6 +249,44 @@ Lokal Model olarak Llama 3.1 önerilebilir, gpt4o mini ile yarışan görüş ka
 - Her zaman tetikte olun ve dijital haklarınızı savunun.
 - Proton bazı kötü yanlara sahip olsa bile Google'ın mahremiyete saygı duyan hali olmaya çalışıyor.
 - Yasalara uyun :).
+- *Şifreleme Kullanın*: Verilerinizi şifrelemek, yetkisiz erişime karşı koruma sağlar. Disk şifreleme (örneğin, VeraCrypt), dosya şifreleme ve e-posta şifreleme gibi farklı yöntemler kullanabilirsiniz.
+- *Güncellemeleri Takip Edin*: İşletim sisteminizi, tarayıcınızı ve uygulamalarınızı güncel tutmak, bilinen güvenlik açıklarını kapatır.
+- *Ağ Güvenliği*: Güçlü Wi-Fi şifreleri kullanın ve herkese açık Wi-Fi ağlarında dikkatli olun. Güvenmediğiniz ağlarda VPN kullanın.
+- *Fiziksel Güvenlik*: Cihazlarınızı fiziksel olarak koruyun. Şifre veya PIN kodu kullanın ve cihazlarınızı gözetimsiz bırakmayın.
+- *Çerezleri (Cookies) Yönetin*: Tarayıcı ayarlarınızdan çerezleri kontrol edin. Üçüncü taraf çerezlerini engelleyin ve düzenli olarak çerezleri temizleyin.
+- *İzinleri Kontrol Edin*: Uygulamaların ve web sitelerinin istediği izinleri dikkatlice inceleyin. Gereksiz izinleri vermeyin.
+- *Hesaplarınızı Kontrol Edin*: Kullanmadığınız hesapları kapatın.
+- *Gizlilik Ayarlarınızı Kontrol Edin*: Kullandığınız tüm platformlarda gizlilik ayarlarınızı gözden geçirin ve optimize edin.
+
+## 13. Sıkça Sorulan Sorular ve Yanılgılar
+
+**Soru:** "Saklayacak bir şeyim yok, neden gizliliği önemseyeyim?"
+
+**Cevap:** Gizlilik, sadece "saklayacak bir şeyi olanlar" için değildir. Temel bir insan hakkıdır ve herkesin mahremiyetine saygı gösterilmesi gerekir. Gizliliğinizi korumak, dijital kimliğinizi ve verilerinizi kontrol altında tutmanızı sağlar. Ayrıca:
+
+- **Kitlesel Gözetim:** Devletler ve şirketler, internet trafiğini ve kişisel verileri kitlesel olarak izleyebilir. Bu, ifade özgürlüğünü kısıtlayabilir ve ayrımcılığa yol açabilir.
+- **Veri İhlalleri:** Kişisel verileriniz, siber saldırılar sonucu çalınabilir veya ifşa edilebilir. Bu, kimlik hırsızlığına, mali kayıplara ve itibar zedelenmesine neden olabilir.
+- **Profilleme ve Manipülasyon:** Şirketler, çevrimiçi davranışlarınızı izleyerek sizi profiller ve size özel reklamlar gösterir. Bu, sizi manipüle edebilir ve karar verme sürecinizi etkileyebilir.
+- **Fiyat Ayrımcılığı:** Çevrimiçi alışveriş siteleri, kişisel verilerinize dayanarak size farklı fiyatlar gösterebilir.
+
+**Soru:** "Rahatımı neden bozayım? Zaten her türlü verilerim gidiyor?"
+
+**Cevap:** Bu, "teslimiyetçi" bir yaklaşımdır ve dijital haklarınızdan vazgeçmek anlamına gelir. Verilerinizin toplanmasını tamamen engellemek mümkün olmasa da, bu rehberdeki adımları izleyerek verilerinizin toplanmasını ve kullanılmasını önemli ölçüde azaltabilirsiniz. Küçük adımlar bile büyük fark yaratır:
+
+- **Farkındalık:** Verilerinizin nasıl toplandığını ve kullanıldığını anlamak, daha bilinçli kararlar vermenizi sağlar.
+- **Kontrol:** Gizlilik ayarlarınızı kontrol etmek, hangi verilerinizi kimlerle paylaştığınızı belirlemenizi sağlar.
+- **Alternatifler:** Gizlilik odaklı araçlar ve hizmetler kullanarak, verilerinizi koruyabilirsiniz.
+- **Mücadele:** Mahremiyet hakkınızı savunmak, daha iyi yasaların ve politikaların oluşturulmasına katkıda bulunur.
+
+**Soru**: "VPN kullanmak yasa dışı mı?"
+
+**Cevap:** VPN kullanmak Türkiye'de *genellikle* yasal. Ancak, VPN'i yasa dışı faaliyetler için kullanmak (örneğin, telif hakkıyla korunan içeriği indirmek) yasa dışıdır. Ayrıca, bazı durumlarda (örneğin, milli güvenlik gerekçesiyle) VPN kullanımı kısıtlanabilir veya engellenebilir. VPN kullanmadan önce yerel yasalara ve VPN sağlayıcısının kullanım şartlarına göz atın. Ayrıca yasalara uyun.
+
+**Soru:** "Tamamen anonim olmak mümkün mü?"
+
+**Cevap:** İnternette tamamen anonim olmak neredeyse imkansız. Ancak, bu rehberdeki adımları izleyerek anonimliğinizi önemli ölçüde artırabilirsiniz. Unutmayın ki, anonimlik bir süreçtir ve sürekli çaba gerektirir.
+
+---
 
 Güvenli, özgür ve mahremiyete saygılı bir dijital dünya dileğiyle!
 
