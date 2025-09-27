@@ -1,6 +1,6 @@
 # Turkish Privacy Guide (Türkçe Mahremiyet Rehberi)
 
-Bu rehber, mahremiyetin "az" olduğu 2025 Türkiyesinde mahremiyetinizi ve veri güvenliğinizi korumak için pratik bilgiler ve öneriler sunar.
+Bu rehber, mahremiyetin "az" olduğu 2025 Dünyasında mahremiyetinizi ve veri güvenliğinizi korumak için Türkçe pratik bilgiler ve öneriler sunar.
 
 ## İçindekiler
 
@@ -34,6 +34,7 @@ Kullandığınız işletim sistemi, dijital mahremiyetinizin temelini oluşturur
 - Google hizmetleri entegre, yoğun veri toplama
 - Üretici ve operatör bloatware'leri
 - Geç gelen veya hiç gelmeyen güncellemeler
+- Google sideload'ı yavaştan öldürmeye başlaması (yine de şuanlık adb(android debug bridge) kullanarak uygulamalar uzun vadede kullanılabilir gibi duruyor)
 
 **Neden IOS Kullanılmamalı?**
 
@@ -66,7 +67,8 @@ Kullandığınız işletim sistemi, dijital mahremiyetinizin temelini oluşturur
 
 Web tarayıcınız, internette gezinirken bıraktığınız izleri kontrol etmenizi sağlar. Gizlilik odaklı tarayıcılar, izlemeyi engeller, parmak izinizi gizler ve verilerinizi korur.
 
-- **Mozilla Firefox Forkları ([Librewolf](https://librewolf.net/) [Floorp](https://floorp.app/en)):** Açık kaynak, mahremiyet odaklı. Default Firefox artık önermiyoruz çünkü her güncellemesiyle mahremiyete zarar veriyor.
+- **Mozilla Firefox Forkları ([Librewolf](https://librewolf.net/) [Floorp](https://floorp.app/en) [Zen](https://zen-browser.app/)):** Açık kaynak, mahremiyet odaklı. Default Firefox artık önermiyoruz çünkü her güncellemesiyle mahremiyete zarar veriyor.
+- **[Mullvad Browser](https://mullvad.net/en/browser) :** Açık kaynak gizlilik odaklı bir tarayıcı(normal internet kullanımı için eksileri olabilir).
 - **[Brave](https://brave.com/):** Yerleşik reklam engelleyici ve kripto cüzdan entegrasyonu, Chromium Tabanlı **Ancak Brave'in kendi reklam sistemi ve bazı veri toplama uygulamaları tartışmalıdır.**
 - [Tor Browser](https://www.torproject.org/download/): Maksimum anonimlik için. **Ancak Tor, normal internet kullanımından daha yavaştır ve bazı sitelerle uyumlu olmayabilir.**
 
@@ -222,7 +224,7 @@ Bilgisayarınızdan veya telefonunuzdan bir dosyayı "sildiğinizde", veri aslı
 
 Yapay zeka sistemleri, özellikle dil modelleri, büyük miktarda veriye ihtiyaç duyar. Bu veriler genellikle kullanıcı etkileşimlerinden toplanır. Gizlilik odaklı AI çözümleri, verilerinizin kontrolünü elinizde tutmanızı sağlar.
 
-Lokal Model olarak Gemma 3 veya Deepseek r1 önerilebilir.
+Lokal Model olarak Gemma 3 , Deepseek r1 veya Qwen önerilebilir.
 
 - [Ollama](https://ollama.com/) + [OpenWebUI](https://github.com/open-webui/open-webui): Yerel çalışan, mahremiyete saygılı AI çözümü.
 
@@ -244,10 +246,10 @@ Lokal Model olarak Gemma 3 veya Deepseek r1 önerilebilir.
 
 ## 12. Ek Notlar
 
-- İSS'lere güvenmeyin.
+- İSS'lere tamamen güvenmeyin.
 - Google, Amazon, Microsoft, Meta tarzı büyük şirketlerin ürünlerini kullandığınızda mümkün olduğunca çok verinizi işlediklerini bilin.
 - Her zaman tetikte olun ve dijital haklarınızı savunun.
-- Proton bazı kötü yanlara sahip olsa bile Google'ın mahremiyete saygı duyan hali olmaya çalışıyor.
+- Proton bazı kötü yanlara sahip olsa bile Google'ın mahremiyete saygı duyan hali olmaya çalışıyor. **Son dönemde bir tür controversy döndü, phrack ekibinin protonmail hesabını durduk yere kapattı proton, dikkat etmekte fayda var** 
 - Yasalara uyun :).
 - *Şifreleme Kullanın*: Verilerinizi şifrelemek, yetkisiz erişime karşı koruma sağlar. Disk şifreleme (örneğin, VeraCrypt), dosya şifreleme ve e-posta şifreleme gibi farklı yöntemler kullanabilirsiniz.
 - *Güncellemeleri Takip Edin*: İşletim sisteminizi, tarayıcınızı ve uygulamalarınızı güncel tutmak, bilinen güvenlik açıklarını kapatır.
@@ -280,11 +282,11 @@ Lokal Model olarak Gemma 3 veya Deepseek r1 önerilebilir.
 
 **Soru**: "VPN kullanmak yasa dışı mı?"
 
-**Cevap:** VPN kullanmak Türkiye'de *genellikle* yasal. Ancak, VPN'i yasa dışı faaliyetler için kullanmak (örneğin, telif hakkıyla korunan içeriği indirmek) yasa dışıdır. Ayrıca, bazı durumlarda (örneğin, milli güvenlik gerekçesiyle) VPN kullanımı kısıtlanabilir veya engellenebilir. VPN kullanmadan önce yerel yasalara ve VPN sağlayıcısının kullanım şartlarına göz atın. Ayrıca yasalara uyun.
+**Cevap:** VPN kullanmak Türkiye'de *henüz* yasal. Ancak, VPN'i yasa dışı faaliyetler için kullanmak (örneğin, telif hakkıyla korunan içeriği indirmek) yasa dışıdır. Ayrıca, bazı durumlarda (örneğin, milli güvenlik gerekçesiyle) VPN kullanımı yasal değildir, kısıtlanabilir, engellenebilir. VPN kullanmadan önce yerel yasalara ve VPN sağlayıcısının kullanım şartlarına göz atın. Ayrıca yasalara uyun.
 
 **Soru:** "Tamamen anonim olmak mümkün mü?"
 
-**Cevap:** İnternette tamamen anonim olmak neredeyse imkansız. Ancak, bu rehberdeki adımları izleyerek anonimliğinizi önemli ölçüde artırabilirsiniz. Unutmayın ki, anonimlik bir süreçtir ve sürekli çaba gerektirir.
+**Cevap:** İnternette tamamen anonim olmak imkansız. Ancak, bu rehberdeki adımları izleyerek anonimliğinizi önemli ölçüde artırabilirsiniz. Unutmayın ki, anonimlik bir süreçtir ve sürekli çaba gerektirir.
 
 ---
 
